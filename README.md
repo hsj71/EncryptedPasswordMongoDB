@@ -1,5 +1,5 @@
 # EncryptedPasswordMongoDB
-## 🔐 Secure User Authentication with Encrypted Passwords using Node.js & MongoDB
+## 🔐 Secure User Authentication with Encrypted Passwords using Node.js & MongoDB (complete backend).
 
 This project demonstrates a basic user authentication system using **Node.js**, **Express**, and **MongoDB**, where **passwords are securely stored** in the database using field-level encryption. The frontend is rendered using **EJS templates**, and the UI is styled with custom CSS.
 
@@ -131,6 +131,7 @@ Add session management (express-session, JWT, etc.) for better authentication co
 <p align="center">
   <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(769).png" alt="View Merged PDFs" width="700"/>
 </p>
+
 ---
 ## app.js
 ```
