@@ -38,7 +38,7 @@ This project demonstrates a basic user authentication system using **Node.js**, 
 ---
 
 ## 🛠️ Project Structure
-
+```
 secure-auth/
 │
 ├── app.js # Main server file
@@ -51,7 +51,7 @@ secure-auth/
 │ ├── login.ejs
 │ └── access.ejs
 └── README.md # This file
-
+```
 ---
 
 ## 🚀 Getting Started
