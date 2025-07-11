@@ -115,17 +115,22 @@ Add session management (express-session, JWT, etc.) for better authentication co
 
 ---
 
-## 🧼 Future Improvements
-Switch to bcrypt for password hashing
+## 🧼 Interface 
+<p align="center">
+  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(764).png" alt="View Merged PDFs" width="700"/>
+</p>
 
-Implement session-based login
+<p align="center">
+  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(765).png" alt="View Merged PDFs" width="700"/>
+</p>
 
-Add logout and user profile
+<p align="center">
+  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(768).png" alt="View Merged PDFs" width="700"/>
+</p>
 
-Use JWT tokens for API-based authentication
-
-Add input validation and error handling
-
+<p align="center">
+  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(769).png" alt="View Merged PDFs" width="700"/>
+</p>
 ---
 ## app.js
 ```
